@@ -30,9 +30,9 @@
 const sachin = {
   role: "Frontend Developer 👨‍💻",
   focus: "MERN Stack & AI/ML",
-  code: ["JavaScript", "Python", "Java", "C"],
-  tools: ["React", "MongoDB", "MySQL", "Node.js", "Express"],
-  learning: ["AI", "Machine Learning", "Generative AI", "Cloud Tech"],
+  code: ["Python", "Java", "C"],
+  tools: ["React", "MongoDB", "MySQL", "Express"],
+  learning: ["Machine Learning"],
   motto: "Build. Learn. Grow. Repeat 🔁",
   funFact: "I treat bugs like quests 🐛⚔️"
 };
@@ -46,7 +46,7 @@ const sachin = {
 
 | 🚀 Working On     | 🧠 Learning   | 🤝 Collaborating | 💡 Exploring    |
 | ----------------- | ------------- | ---------------- | --------------- |
-| React & MERN Apps | Generative AI | Open Source      | Next.js, DevOps |
+| React & MERN Apps | Generative AI | Open Source      |      DevOps |
 
 </div>
 
