@@ -174,11 +174,7 @@ const sachin = {
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sachinsandrons2005/sachinsandrons2005/output/snake.svg" alt="Snake Animation" />
-</div>
 
 <div align="center">
   <b>⭐ From [sachinsandrons2005](https://github.com/sachinsandrons2005) with ❤️</b>
